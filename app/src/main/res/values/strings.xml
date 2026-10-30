@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fortress Blocker</string>
+    <string name="accessibility_description">Zero-delay blocker for restricted pages, adult content across all languages, social media feeds, and system settings.</string>
+    <string name="admin_description">Prevents uninstallation and locks the hardware screen immediately on policy violation.</string>
+</resources>
